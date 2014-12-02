@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rails Devise Pundit
 ================
 
@@ -48,3 +49,9 @@ Credits
 
 License
 -------
+=======
+rdpMySQL
+========
+
+Initial edits for Rails-devise-pundit with MySQL db
+>>>>>>> 29b93a420d4c11ef31944756e7db4a8ba1750baf
